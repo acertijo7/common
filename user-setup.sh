@@ -8,7 +8,7 @@ WORKSPACE="clearlinux"
 PACKAGE_REPOS=
 NEEDS_KVM_GROUP=
 
-help() {
+help(@harysolover ) {
   printf "%s\n" >&2 "Usage: $SCRIPT [options]" \
     "" \
     "Options:" \
